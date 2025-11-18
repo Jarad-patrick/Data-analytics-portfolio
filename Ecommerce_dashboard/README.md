@@ -1,6 +1,5 @@
 E-Commerce Sales Analysis Dashboard (Power BI)
 
-Problem Statement
 The company wants to understand how its sales are performing across different months, products, and customer segments.  
 Management needs insights into revenue, profit, best-selling products, and overall business trends to make decisions that increase growth.
 
