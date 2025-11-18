@@ -25,7 +25,7 @@ Management needs insights into revenue, profit, best-selling products, and overa
 ---
 
 Tasks performed
-1. Data Cleaning
+1. Data Cleaning (using Power query)
 - Converted `OrderDate` to proper date format  
 - Created new columns:  
   - Revenue = Quantity × UnitPrice  
