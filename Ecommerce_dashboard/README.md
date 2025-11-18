@@ -7,7 +7,7 @@ Management needs insights into revenue, profit, best-selling products, and overa
 ---
 
  Dataset
-**File:** ecommerce_sales_data.csv 
+**File:** ecommerce_sales_data.csv
 **Rows:** -5,000  
 **Columns:**  
 - `OrderID`  
